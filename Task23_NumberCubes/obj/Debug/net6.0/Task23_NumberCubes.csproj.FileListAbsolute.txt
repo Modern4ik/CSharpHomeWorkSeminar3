@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\bin\Debug\net6.0\Task23_NumberCubes.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\bin\Debug\net6.0\Task23_NumberCubes.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\bin\Debug\net6.0\Task23_NumberCubes.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\bin\Debug\net6.0\Task23_NumberCubes.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\bin\Debug\net6.0\Task23_NumberCubes.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\refint\Task23_NumberCubes.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\Task23_NumberCubes.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task23_NumberCubes\obj\Debug\net6.0\ref\Task23_NumberCubes.dll
