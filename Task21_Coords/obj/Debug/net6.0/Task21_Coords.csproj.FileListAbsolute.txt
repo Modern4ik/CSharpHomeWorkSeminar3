@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\bin\Debug\net6.0\Task21_Coords.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\bin\Debug\net6.0\Task21_Coords.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\bin\Debug\net6.0\Task21_Coords.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\bin\Debug\net6.0\Task21_Coords.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\bin\Debug\net6.0\Task21_Coords.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\refint\Task21_Coords.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\Task21_Coords.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar3\Task21_Coords\obj\Debug\net6.0\ref\Task21_Coords.dll

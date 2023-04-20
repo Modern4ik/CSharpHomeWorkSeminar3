@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task21_Coords/1.0.0": {
+        "runtime": {
+          "Task21_Coords.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task21_Coords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
